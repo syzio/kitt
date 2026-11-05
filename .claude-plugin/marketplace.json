@@ -1,0 +1,13 @@
+{
+  "name": "syzio",
+  "description": "Oizys's Claude Code plugins.",
+  "owner": { "name": "Oizys", "url": "https://github.com/syzio" },
+  "plugins": [
+    {
+      "name": "kitt",
+      "source": "./",
+      "description": "Spec-driven development and writing tools.",
+      "category": "development"
+    }
+  ]
+}

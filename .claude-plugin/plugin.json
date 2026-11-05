@@ -1,7 +1,7 @@
 {
   "name": "kitt",
   "displayName": "KITT",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "description": "Spec-driven development and writing tools. Takes an idea through a constitution, spec, plan and tasks, checks them against each other and the code, and edits writing to remove AI tells.",
   "author": { "name": "Oizys" },
   "homepage": "https://github.com/syzio/kitt",

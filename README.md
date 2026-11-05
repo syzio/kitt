@@ -46,7 +46,7 @@ In chat, ask in plain words ("spec out CSV export", "clarify the spec"). In Clau
 1. Run `scripts/build.sh`. It writes `dist/kitt-<version>.zip`.
 2. Upload the zip to claude.ai. Claude Code picks the plugin up through sync, so don't install it there a second time.
 
-To install in Claude Code without claude.ai, run `/plugin marketplace add syzio/kitt`, then `/plugin install kitt@syzio`.
+To install in Claude Code without claude.ai, run `/plugin marketplace add syzio/kitt`, then `/plugin install kitt@oizys`.
 
 ## Maintain
 
